@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SurfaceTest/Shaders/DiffuseShadow.shader">
+    <Files>
+      <File FileName="Assets/SurfaceTest/Shaders/Flame.shader" Line="35" Column="31" />
+      <File FileName="Assets/SurfaceTest/Shaders/Outline.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/TestW.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/Mountain.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/Warp.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/Wave.shader" />
+      <File FileName="../../../../../Applications/Unity/Hub/Editor/2019.1.10f1/Unity.app/Contents/CGIncludes/UnityCG.cginc" />
+      <File FileName="Assets/SurfaceTest/Shaders/Diffuse2.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/Specular.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/SpecularFrag.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/BlinnPhong.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/BlinnPhongFrag.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/Diffuse.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/DiffuseFrag.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/MultiLightFrag.shader" />
+      <File FileName="Assets/SurfaceTest/Shaders/DiffuseShadow.shader" Line="79" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SurfaceShader" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
