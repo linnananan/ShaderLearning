@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ShaderLearning/Shaders/Rim2.shader">
+    <Files>
+      <File FileName="../../../../../Applications/Unity/Hub/Editor/2019.1.10f1/Unity.app/Contents/CGIncludes/UnityCG.cginc" Line="223" Column="57" />
+      <File FileName="Assets/ShaderLearning/Shaders/Rim.shader" Line="37" Column="20" />
+      <File FileName="Assets/ShaderLearning/Shaders/Rim2.shader" Line="83" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShaderLearning" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
